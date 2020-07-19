@@ -15,5 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### WIP
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1>Hacked by RR!</h1>
+<p>If you see this page, the nginx web server is successfully hacked and
+not working. Further configuration is denied.</p>
 
+<p>For online documentation and support please refer to
+<a href="http://loli.club/">loli.club</a>.<br/>
+Commercial support is available at
+<a href="http://ricterz.me/">ricterz.me</a>.</p>
+
+<p><em>Make RicterZ great again!</em></p>
+
+<p align="center"><a href="/"><img src="https://ccloli.com/mokou.jpg" alt></a></p>
+
+</body>
+</html>
