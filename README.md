@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <figure>
   <p>
 
@@ -71,3 +72,25 @@ Here are some ideas to get you started:
     </em>
   </figcaption>
 <figure>
+-->
+
+
+
+<!-- ![Suicide = Survive?](https://sbi.ccloli.com/img/8658f1aadb166899.jpg) -->
+
+![Suicide = Survive?](./VRChat_2023-12-23_20-33-32.225_7680x4320-v2-filter-q84.jpg)
+
+<h1 align="center">
+  
+  ***
+  _[Suicide](https://www.youtube.com/watch?v=4QXCPuwBz2E) = [Survive?](https://www.youtube.com/watch?v=vcw5THyM7Jo)_
+  ***
+
+</h1>
+
+<div align="right">
+
+  World: [ORGANISM （v1․5）](https://vrchat.com/home/launch?worldId=wrld_de53549a-20cf-4c6f-abea-dcda197e1e16) by DrMorro  
+  Avatar: [狐雪 / Koyuki](https://booth.pm/ja/items/2554585) by キュビクローゼット
+  
+</div>
