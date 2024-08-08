@@ -75,8 +75,30 @@ Here are some ideas to get you started:
 -->
 
 
+![Do you miss the old days?](VRChat_2024-05-30_02-32-22.514_3840x2160-q100.jpg)
+
+
+<h1 align="center">
+  
+  ***
+  _[Do you miss the old days?](https://www.youtube-nocookie.com/embed/vKT3V4Xx7Hs)_
+  ***
+
+</h1>
+
+<small>Side notes: I didn't finish OOT though I've played it at least twice, not to say it's old (imo it's very modern), just pause it somewhere and never back, that's my bad. But every time I heard Lost Woods, even though the song sounds cheerful, I do feel a deep sorrow.</small>
+
+<div align="right">
+
+  World: [Ocarina of Time 3D](https://vrchat.com/home/world/wrld_37abea33-f34c-4706-8e6b-2f69e414fc5d) by GigiSpahz  
+  Avatar: [狐雪 / Koyuki](https://booth.pm/ja/items/2554585) by キュビクローゼット
+  
+</div>
+
 
 <!-- ![Suicide = Survive?](https://sbi.ccloli.com/img/8658f1aadb166899.jpg) -->
+
+<!--
 
 ![Suicide = Survive?](./VRChat_2023-12-23_20-33-32.225_7680x4320-v2-filter-q84.jpg)
 
@@ -94,3 +116,5 @@ Here are some ideas to get you started:
   Avatar: [狐雪 / Koyuki](https://booth.pm/ja/items/2554585) by キュビクローゼット
   
 </div>
+
+-->
