@@ -74,6 +74,25 @@ Here are some ideas to get you started:
 <figure>
 -->
 
+![](VRChat_2024-12-25_01-29-36.718_7680x4320-2160q90.jpg)
+
+
+<h1 align="center">
+  
+  ***
+  ▇▇▇▇▇▇▇▇▇▇
+  ***
+
+</h1>
+
+<div align="right">
+
+  World: [Fallen Books](https://vrchat.com/home/world/wrld_74b0e92d-c3c9-463a-9782-b3878fb89a8c) by peipeiko  
+  Avatar: [狐雪 / Koyuki](https://booth.pm/ja/items/2554585) by キュビクローゼット
+  
+</div>
+
+<!--
 
 ![Do you miss the old days?](VRChat_2024-05-30_02-32-22.514_3840x2160-q100.jpg)
 
@@ -94,6 +113,8 @@ Here are some ideas to get you started:
   Avatar: [狐雪 / Koyuki](https://booth.pm/ja/items/2554585) by キュビクローゼット
   
 </div>
+
+-->
 
 
 <!-- ![Suicide = Survive?](https://sbi.ccloli.com/img/8658f1aadb166899.jpg) -->
